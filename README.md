@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yassine-afrouni
 - 👀 I’m interested in networking
-- 🌱 I’m currently taking my CCNP
+<!--- 🌱 I’m currently taking my CCNP--->
 - 💞️ I’m looking to collaborate on any intresting project
 - 📫 reach me on telegram @yassine-af
 
